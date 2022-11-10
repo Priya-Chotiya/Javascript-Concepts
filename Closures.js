@@ -1,10 +1,10 @@
 // closures is function that refernces variables in the outer scope from its inner scope 
 // lexical scope
 // function bundle together with its lexcial enviroment forms a closures
-// it helps us in data hiding and enscpsulation
 
 // Question - Why we need closures?
 // closures make posible function to have private variables
+// it helps us in data hiding and enscpsulation
 
 
 // Question - Closures scope chain?

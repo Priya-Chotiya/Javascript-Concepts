@@ -16,7 +16,7 @@ let animal = {
   rabbit.walk(); // Animal walk
 
   // What is prototype chain?
-  //The prototype object has prototype of its own and so on until an object is reached with null as its prototype.
+  // The prototype object has prototype of its own and so on until an object is reached with null as its prototype.
   // So, this linking with one another is called as prototype chain.Null has no prototype and it acts as a
   // final link in this prototype chain.
 
